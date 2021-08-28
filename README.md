@@ -5,3 +5,4 @@ This is the block chain based app using
 -> JS,HTML,CSS <br/>
 -> MetaMask extension <br/>
 -> Ganache-CLI for (for local Transactions) <br/>
+####TO RUN USE ```npm install``` FOR ALL THE DEPENDENCES
